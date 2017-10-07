@@ -1,2 +1,2 @@
 # codeforces
-Few solutions to the codeforces problems
+Solutions to few of the codeforces problems
